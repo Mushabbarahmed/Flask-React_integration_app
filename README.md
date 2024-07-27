@@ -11,8 +11,7 @@ An integrated  Sample web application utilizing Flask and React for machine lear
 Prerequisites
 1.	Node.js and npm: Ensure you have Node.js and npm installed.
 2.	Python: Ensure you have Python installed.
-3.	Git: Ensure you have Git installed.
-4.	Git LFS: Ensure you have Git LFS installed.
+
 
 Steps to Run the Application
 Frontend (React)
