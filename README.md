@@ -13,7 +13,7 @@ Prerequisites
 2.	Python: Ensure you have Python installed.
 
 
-Steps to Run the Application
+**Steps to Run the Application
 Frontend (React)
 1.Navigate to the Project Directory: Create and navigate to your project directory.
   >mkdir FlaskReactIntelligence
@@ -43,4 +43,4 @@ Backend (Flask)
   >pip install flask flask-cors joblib scikit-learn
 4.Add Your Flask App Files: Add your Flask application code (app.py, model.pkl, etc.) to the backend directory.
 5*Run the Flask App: Start the Flask server.
-  >>python app.py
+  >>python app.py**
